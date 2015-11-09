@@ -4,6 +4,7 @@
 # andando04_alternative.py
 # Movimiento animado personalizado usando grilla
 #-----------------------------------------------------------------------
+
 import pilasengine
 
 pilas = pilasengine.iniciar()
